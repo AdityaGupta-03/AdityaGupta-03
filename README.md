@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm always up for new adventures and love to explore offbeat travel destinations. From hiking in remote mountains to trying exotic street food!
 
 - Education:
-  - Bachelor of Technology in Computer Science, J.C.Bose University of Science and Technology, 2022
+  - Bachelor of Technology in Information Technology, J.C.Bose University of Science and Technology, 2022
   
 - Skills:
   - Programming Languages: C++, Javascript, PHP, Python
