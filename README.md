@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Profile: Query related to Job, Career, Resume Writing, Interview Prep etc, feel free to contact at [**Topmate**](https://topmate.io/aditya_gupta03/)
 - ✨ My Blogs : [**Medium**](https://medium.com/@iaditya.gupta03)
 - 🧑‍💻 Coding Profile : [**Leetcode**](https://leetcode.com/u/AdityaGupta03/)
-- 💜 Channel: [YouTube](https://www.youtube.com/@aditya_gupta03)
+- 🤍 Channel: [YouTube](https://www.youtube.com/@aditya_gupta03)
 
 - Education:
   - Master of Technology in Computer Science and Engineering, Netaji Subhas University of Technology, 2024
