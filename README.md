@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently working on MERN and PHP stack and exploring into the field of Data Science, leveraging my experience in ML-DL concepts.
 - 💞️ I’m looking to collaborate on open source projects related to Web development and Data Engineering Roles.
 - 📫 How to reach me: You can connect with me via [**Gmail**](iaditya.gupta03@gmail.com) or find me on [**LinkedIn**](www.linkedin.com/in/iadityagupta03/)
-- ⚡ Profile: If you are stucked or having query related to Job, Education, Resume reviewing, Interview Prep or any, feel free to contact at [**Topmate**](https://topmate.io/aditya_gupta03/)
+- ⚡ Profile: Query related to Job, Career, Resume Writing, Interview Prep etc, feel free to contact at [**Topmate**](https://topmate.io/aditya_gupta03/)
 - ✨ My Blogs : [**Medium**](https://medium.com/@iaditya.gupta03)
 - 🧑‍💻 Coding Profile : [**Leetcode**](https://leetcode.com/u/AdityaGupta03/)
 - 💜 Channel: [YouTube](https://www.youtube.com/@aditya_gupta03)
