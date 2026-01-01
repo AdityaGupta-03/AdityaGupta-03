@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I would love to collaborate on Data Driven projects which could lead to huge impact on revenue of the company/startup.
 - 📫 How to reach me: You can connect with me via [**Gmail**](imaditya.gupta39@gmail.com) or find me on [**LinkedIn**](https://www.linkedin.com/in/imadityagupta39/)
 - ⚡ Profile: Query related to Job, Career, Resume Writing, Interview Prep etc, feel free to contact at [**Topmate**](https://topmate.io/imadityagupta39/)
-- ✨ My Blogs : [**Medium**](https://medium.com/@imaditya-gupta39)
+- ✨ My Blogs : [**Medium**](https://medium.com/@imadityagupta39)
 - 🧑‍💻 Fond of Finance + Engineering + AI.
 
 - Education:
